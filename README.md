@@ -17,7 +17,11 @@ This project benchmarks machine learning and statistical methods for outlier det
   - Computational efficiency
 
 ## Model selection
-tbc.
+  1. OUTRIDER (variational autoencoder)
+  2. OutSingle (matrix decomposition)
+  3. OutRiderSingle (combination of 1 and 2)
+  4. saseR
+  5. AXOLOTL (commonly identified outliers when applying light version of previous methods) 
 
 ## Project files
 - R and Python cripts for model implementation + csv output files + plotting scripts for benchmarking comparison
