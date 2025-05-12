@@ -1,0 +1,6 @@
+Dataset,Method,Time,Q,Column_nb
+Geuvadis,outrider,1.26667663256327,5,5
+dd,OutSingle,2.0,3,47
+GTExSkinSmall,OutSingle,0.02,4,50
+GTExSkinSmall,OutSingle,0.03,4,50
+GTExSkinSmall,OutSingle,0.01,4,50
